@@ -23,3 +23,6 @@ One of my goals was become more proficient in front-end development. Previously 
 I also wanted to develop a solid understanding of databases during this work term as I previously had 0 experience working with databases. Our web app used SQL server to store all the information about TRADER's applications, so I got to learn a lot about databases while working on that. I believe I now have a much better understanding of databases and believe my experience will help me do well in CIS 3530 this semester.
 
 Lastly, I wanted to get comfortable with Visual Studio and Visual Studio Code. I had never used either program previously but I wanted to get comfortable with them as they seem to be pretty standard in the computer science field. I ended up using both programs throughout the entire work term, and got a lot more comfortable with when to use them and how. I now plan on using them for my future course work and other work terms.
+
+# Conclusion
+Overall, my experience with TRADER was very positive and I am very thankful for the opportunity to work with them. I was able to learn a lot about technologies that I had previously no experience with. I also enjoyed the work term a lot and am planning to return for my next work term in January.
